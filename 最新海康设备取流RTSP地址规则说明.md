@@ -61,7 +61,7 @@ rtsp://username:password@<address>:<port>/Streaming/Channels/<id>(?parm1=value1&
 
 详细描述：
 
-![hikvision-2(./images/hikvision-2.png)]
+![hikvision-2](./images/hikvision-2.png "详细描述")
 
 举例说明：
 
@@ -119,7 +119,7 @@ rtsp://admin:12345@172.6.22.106:554/Streaming/tracks/1701?starttime=20131013t093
 
 URL描述：
 
-![hikvision-4(./images/hikvision-4.png)]
+![hikvision-4](./images/hikvision-4.png "详细描述")
 
 注：Devicehc8为固定字符，不可更改。
 
@@ -133,7 +133,7 @@ rtsp://172.6.24.15:554/Devicehc8://172.6.22.106:8000:0:0?username=admin&password
 
 URL描述：
 
-![hikvision-5(./images/hikvision-5.png)]
+![hikvision-5](./images/hikvision-5.png "详细描述")
 
 举例说明：
 
