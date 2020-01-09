@@ -100,7 +100,7 @@ rtsp://username:password@<address>:<port>/Streaming/tracks/<id>(?parm1=value1&pa
 
 详细描述：
 
-![hikvision-3(./images/hikvision-3.png)]
+![hikvision-3](./images/hikvision-3.png "详细描述")
 
 举例说明：
 
