@@ -31,7 +31,7 @@ rtsp://username:password@<ipaddress>/<videotype>/ch<number>/<streamtype>
 
 详细描述：
 
-![hikvision-1(./images/hikvision-1.png)]
+![hikvision-1](./images/hikvision-1.png "详细描述")
 
 举例说明：
 
